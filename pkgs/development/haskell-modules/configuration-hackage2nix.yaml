@@ -7113,6 +7113,7 @@ broken-packages:
   - lit
   - literals
   - LiterateMarkdown
+  - little-logger
   - live-sequencer
   - ll-picosat
   - llsd
@@ -10964,5 +10965,3 @@ broken-packages:
   - Zwaluw
   - zxcvbn-dvorak
   - zxcvbn-hs
-
-
